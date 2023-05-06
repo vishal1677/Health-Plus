@@ -1,0 +1,3 @@
+[submodule "HealthPlusApp"]
+	path = HealthPlusApp
+	url = https://github.com/vishal1677/HealthPlusApp.git
