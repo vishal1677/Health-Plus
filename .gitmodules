@@ -1,3 +1,6 @@
 [submodule "HealthPlusApp"]
 	path = HealthPlusApp
 	url = https://github.com/vishal1677/HealthPlusApp.git
+[submodule "EasyOCRandClassifierModel"]
+	path = EasyOCRandClassifierModel
+	url = https://github.com/vishal1677/EasyOCRandClassifierModel.git
