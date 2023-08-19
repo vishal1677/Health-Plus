@@ -12,6 +12,11 @@ This project has following functionality:
 - Chatbot to solve health related quries 
 
 
+## Live link of project hosted globally using ngrok
+
+
+
+  - [Cardio vascular disease predictor](https://be28-61-14-206-67.in.ngrok.io/)
 ## Tech Stack
 
 **App:** Flutter,Firebase
